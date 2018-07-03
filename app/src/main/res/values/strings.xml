@@ -1,0 +1,5 @@
+<resources><string name="app_name">SimpleApp</string>
+    <string name="xAccel">xAcceleration</string>
+    <string name="yAccel">yAcceleration</string>
+    <string name="zAccel">zAcceleration</string>
+</resources>
